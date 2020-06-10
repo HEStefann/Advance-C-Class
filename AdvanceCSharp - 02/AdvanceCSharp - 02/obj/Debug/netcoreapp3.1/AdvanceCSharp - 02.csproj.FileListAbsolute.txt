@@ -1,0 +1,11 @@
+C:\Users\Chucky\Desktop\seavus vs\advance c#\AdvanceCSharp - 02\AdvanceCSharp - 02\bin\Debug\netcoreapp3.1\AdvanceCSharp - 02.exe
+C:\Users\Chucky\Desktop\seavus vs\advance c#\AdvanceCSharp - 02\AdvanceCSharp - 02\bin\Debug\netcoreapp3.1\AdvanceCSharp - 02.deps.json
+C:\Users\Chucky\Desktop\seavus vs\advance c#\AdvanceCSharp - 02\AdvanceCSharp - 02\bin\Debug\netcoreapp3.1\AdvanceCSharp - 02.runtimeconfig.json
+C:\Users\Chucky\Desktop\seavus vs\advance c#\AdvanceCSharp - 02\AdvanceCSharp - 02\bin\Debug\netcoreapp3.1\AdvanceCSharp - 02.runtimeconfig.dev.json
+C:\Users\Chucky\Desktop\seavus vs\advance c#\AdvanceCSharp - 02\AdvanceCSharp - 02\bin\Debug\netcoreapp3.1\AdvanceCSharp - 02.dll
+C:\Users\Chucky\Desktop\seavus vs\advance c#\AdvanceCSharp - 02\AdvanceCSharp - 02\bin\Debug\netcoreapp3.1\AdvanceCSharp - 02.pdb
+C:\Users\Chucky\Desktop\seavus vs\advance c#\AdvanceCSharp - 02\AdvanceCSharp - 02\obj\Debug\netcoreapp3.1\AdvanceCSharp - 02.csprojAssemblyReference.cache
+C:\Users\Chucky\Desktop\seavus vs\advance c#\AdvanceCSharp - 02\AdvanceCSharp - 02\obj\Debug\netcoreapp3.1\AdvanceCSharp - 02.AssemblyInfoInputs.cache
+C:\Users\Chucky\Desktop\seavus vs\advance c#\AdvanceCSharp - 02\AdvanceCSharp - 02\obj\Debug\netcoreapp3.1\AdvanceCSharp - 02.AssemblyInfo.cs
+C:\Users\Chucky\Desktop\seavus vs\advance c#\AdvanceCSharp - 02\AdvanceCSharp - 02\obj\Debug\netcoreapp3.1\AdvanceCSharp - 02.dll
+C:\Users\Chucky\Desktop\seavus vs\advance c#\AdvanceCSharp - 02\AdvanceCSharp - 02\obj\Debug\netcoreapp3.1\AdvanceCSharp - 02.pdb
